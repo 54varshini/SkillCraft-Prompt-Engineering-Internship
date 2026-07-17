@@ -52,8 +52,6 @@ Prompt Engineering is the process of creating clear, specific, and structured in
 
 Climate change refers to long-term changes in Earth's temperature and weather patterns. It is mainly caused by human activities such as burning fossil fuels, deforestation, and industrial pollution, which increase greenhouse gases in the atmosphere. These changes result in rising temperatures, melting glaciers, rising sea levels, and more frequent extreme weather events.
 
-**Screenshot:** `images/original-prompt1.png`
-
 ---
 
 ## Improved Prompt
@@ -73,8 +71,6 @@ Keep the explanation under 120 words.
 * Climate change means the Earth is getting warmer because people burn fuels like coal, oil, and gas.
 * This can cause hotter summers, melting ice, stronger storms, and rising sea levels.
 * **Example:** If the weather becomes too hot, farmers may struggle to grow crops, which can affect the food we eat.
-
-**Screenshot:** `images/improved-prompt1.png`
 
 ### Analysis
 
@@ -100,9 +96,6 @@ Thank you.
 
 Regards,
 John
-
-** Screenshot:** `images/original-prompt2.png`
-
 ---
 
 ## Improved Prompt
@@ -126,9 +119,6 @@ Thank you.
 Sincerely,
 
 **[Your Name]**
-
-**Screenshot:** `images/improved-prompt2.mp4`
-
 ### Analysis
 
 The original prompt is too general and does not provide enough information. The improved prompt specifies the role, purpose, recipient, reason, and length, resulting in a more professional and relevant email.
@@ -159,8 +149,6 @@ Saturday: Stretching
 
 Sunday: Rest
 
-** Screenshot:** `images/original-prompt3.mp4`
-
 ---
 
 ## Improved Prompt
@@ -181,8 +169,6 @@ Present the plan in a table.
 | 2    | 25-minute walk | Lunges            | Rest      | Plank             | High Knees    | Yoga       | Rest   |
 | 3    | 30-minute walk | Squats + Push-ups | Rest      | Mountain Climbers | Core Workout  | Stretching | Rest   |
 | 4    | 35-minute walk | Full Body Circuit | Rest      | HIIT              | Core Workout  | Yoga       | Rest   |
-
-** Screenshot:** `images/improved-prompt3.png`
 
 ### Analysis
 
