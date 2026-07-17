@@ -1,0 +1,205 @@
+# 📄 Task 01 – Writing Better Prompts
+
+## **SKILLCRAFT TECHNOLOGY – Prompt Engineering Internship**
+
+### **Task 01: Writing Better Prompts**
+
+**Submitted By:** Aki venkata Varshini
+
+**GitHub Repository:** 
+
+---
+
+# Objective
+
+The objective of this task is to understand the fundamentals of Prompt Engineering by transforming vague prompts into clear, detailed, and structured prompts. The task demonstrates how improving prompts helps AI models generate more accurate, relevant, and useful responses.
+
+---
+
+# Introduction
+
+Artificial Intelligence (AI) models generate responses based on the prompts provided by users. The quality of the output depends greatly on how clearly and specifically the prompt is written. A vague prompt often results in generic responses, while a well-structured prompt provides context, instructions, constraints, and the desired output format, allowing the AI to generate more accurate and meaningful results.
+
+Prompt Engineering is the practice of designing effective prompts that improve communication with AI systems. It plays an important role in education, software development, research, customer support, content creation, and many other AI-powered applications.
+
+---
+
+# What is Prompt Engineering?
+
+Prompt Engineering is the process of creating clear, specific, and structured instructions that help AI models understand user requirements accurately. A good prompt reduces ambiguity by defining the AI's role, providing context, specifying constraints, and requesting a preferred output format. As a result, the AI produces responses that are more relevant, organized, and useful.
+
+---
+
+# Characteristics of an Effective Prompt
+
+| Component     | Description                                                                     |
+| ------------- | ------------------------------------------------------------------------------- |
+| Role          | Defines the role the AI should assume.                                          |
+| Task          | Clearly specifies what the AI should accomplish.                                |
+| Context       | Provides background information to improve understanding.                       |
+| Constraints   | Specifies limitations such as word count, audience, or style.                   |
+| Output Format | Defines how the response should be presented (table, bullets, paragraph, etc.). |
+
+---
+
+# Prompt 1
+
+## Original Prompt
+
+> Explain climate change.
+
+### AI Response
+
+Climate change refers to long-term changes in Earth's temperature and weather patterns. It is mainly caused by human activities such as burning fossil fuels, deforestation, and industrial pollution, which increase greenhouse gases in the atmosphere. These changes result in rising temperatures, melting glaciers, rising sea levels, and more frequent extreme weather events.
+
+**Screenshot:** `images/original-prompt1.png`
+
+---
+
+## Improved Prompt
+
+You are a science teacher.
+
+Explain climate change to a 12-year-old student using simple English.
+
+Use exactly three bullet points.
+
+Include one real-life example.
+
+Keep the explanation under 120 words.
+
+### AI Response
+
+* Climate change means the Earth is getting warmer because people burn fuels like coal, oil, and gas.
+* This can cause hotter summers, melting ice, stronger storms, and rising sea levels.
+* **Example:** If the weather becomes too hot, farmers may struggle to grow crops, which can affect the food we eat.
+
+**Screenshot:** `images/improved-prompt1.png`
+
+### Analysis
+
+The original prompt is broad and lacks context, audience, and formatting requirements. The improved prompt defines the AI's role, target audience, language level, output format, and word limit, resulting in a clearer and more useful response.
+
+---
+
+# Prompt 2
+
+## Original Prompt
+
+> Write an email.
+
+### AI Response
+
+Subject: Leave Request
+
+Dear Sir/Madam,
+
+I hope you are doing well. I would like to request leave for personal reasons. Kindly approve my leave.
+
+Thank you.
+
+Regards,
+John
+
+** Screenshot:** `images/original-prompt2.png`
+
+---
+
+## Improved Prompt
+
+You are an HR manager.
+
+Write a professional leave request email to my manager requesting two days of leave due to a family function.
+
+Keep it under 120 words.
+
+### AI Response
+
+**Subject:** Request for Two Days Leave
+
+Dear Manager,
+
+I hope you are doing well. I would like to request leave for two days as I need to attend an important family function. I have completed my pending tasks and will ensure a smooth handover before my leave. Kindly consider my request.
+
+Thank you.
+
+Sincerely,
+
+**[Your Name]**
+
+**Screenshot:** `images/improved-prompt2.mp4`
+
+### Analysis
+
+The original prompt is too general and does not provide enough information. The improved prompt specifies the role, purpose, recipient, reason, and length, resulting in a more professional and relevant email.
+
+---
+
+# Prompt 3
+
+## Original Prompt
+
+> Create a workout plan.
+
+### AI Response
+
+Workout Plan
+
+Monday: Cardio
+
+Tuesday: Strength Training
+
+Wednesday: Yoga
+
+Thursday: Cardio
+
+Friday: Strength Training
+
+Saturday: Stretching
+
+Sunday: Rest
+
+** Screenshot:** `images/original-prompt3.mp4`
+
+---
+
+## Improved Prompt
+
+You are a certified fitness coach.
+
+Create a four-week beginner home workout plan for fat loss.
+
+No equipment is available.
+
+Present the plan in a table.
+
+### AI Response
+
+| Week | Monday         | Tuesday           | Wednesday | Thursday          | Friday        | Saturday   | Sunday |
+| ---- | -------------- | ----------------- | --------- | ----------------- | ------------- | ---------- | ------ |
+| 1    | 20-minute walk | Bodyweight Squats | Rest      | Push-ups          | Jumping Jacks | Stretching | Rest   |
+| 2    | 25-minute walk | Lunges            | Rest      | Plank             | High Knees    | Yoga       | Rest   |
+| 3    | 30-minute walk | Squats + Push-ups | Rest      | Mountain Climbers | Core Workout  | Stretching | Rest   |
+| 4    | 35-minute walk | Full Body Circuit | Rest      | HIIT              | Core Workout  | Yoga       | Rest   |
+
+** Screenshot:** `images/improved-prompt3.png`
+
+### Analysis
+
+The original prompt lacks important details such as fitness goal, experience level, equipment availability, and preferred output format. The improved prompt includes all these details, allowing the AI to generate a structured and personalized workout plan.
+
+---
+
+# Key Learnings
+
+* Learned the importance of writing clear and specific prompts.
+* Understood how defining the AI's role improves response quality.
+* Learned that providing context helps the AI understand user requirements.
+* Realized that constraints such as word limits and formatting improve consistency.
+* Understood how prompt engineering reduces ambiguity and generates more useful responses.
+
+---
+
+# Conclusion
+
+This task demonstrated that prompt engineering significantly improves the quality of AI-generated responses. By defining the AI's role, providing context, specifying constraints, and requesting a desired output format, responses become more accurate, relevant, and easier to understand. This task helped me develop a better understanding of how to communicate effectively with AI systems.
